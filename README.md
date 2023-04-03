@@ -1,7 +1,7 @@
 # Membros:
-- Pedro
-- Arthur
-- Bruna
+- Pedro Queiroz
+- Arthur Brito
+- Bruna Pedrosa
 
 # CBL
 ## Big idea
