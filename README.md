@@ -3,6 +3,10 @@
 - Arthur Brito
 - Bruna Pedrosa
 
+# Links úteis
+- [Primeira apresentação](https://www.canva.com/design/DAFdyE7WbAM/IffPDZs8_riE08bePCQ1cA/view?utm_content=DAFdyE7WbAM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- [Notion](https://arthurbm.notion.site/Projeto-Engenharia-de-Software-b0714196c2714eada36a47a5f12618ec)
+
 # CBL
 ## Big idea
 - Título
